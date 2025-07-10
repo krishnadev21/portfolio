@@ -94,7 +94,7 @@ export const About = () => {
               <ul className="text-gray-300 space-y-2">
                 <li>
                   <strong>Software Developer</strong> at Connected World
-                  Technology Solutions (2020 - 2023)
+                  Technology Solutions (2023 - 2024)
                 </li>
               </ul>
             </div>
