@@ -18,7 +18,7 @@ export const Home = () => {
       <RevealOnScroll>
         <div className="text-center z-10 px-4">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent leading-right">
-            Hi, I'm Krishna
+            Hi, I'm Mohana Krishnan
           </h1>
           <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
             I'm a full-stack developer who loves crafting clean, scalable web
@@ -94,7 +94,7 @@ export const Home = () => {
         </div>
       </RevealOnScroll>
       {/* Animated Bounce Arrow - Outside RevealOnScroll but inside section */}
-      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2">
+      <div className="absolute bottom-16 left-1/2 transform -translate-x-1/2">
         <FaArrowDown
           className="text-blue-400 border rounded-full p-1 animate-bounce h-8 w-8"
           aria-hidden="true"
