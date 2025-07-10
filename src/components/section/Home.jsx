@@ -94,7 +94,7 @@ export const Home = () => {
         </div>
       </RevealOnScroll>
       {/* Animated Bounce Arrow - Outside RevealOnScroll but inside section */}
-      <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2">
+      <div className="absolute bottom-12 md:bottom-8 left-1/2 transform -translate-x-1/2">
         <FaArrowDown
           className="text-blue-400 border rounded-full p-1 animate-bounce h-8 w-8"
           aria-hidden="true"
